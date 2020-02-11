@@ -1,5 +1,6 @@
 #This is some information I'm saving to help me remember things related to strings and their functions.
 #So far there are 3 bits of information I learned.
+#Started on Feb 11th, 2020. Not finished yet.
 
 print("Working with strings")
 
